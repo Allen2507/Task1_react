@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/task1_react/static/css/main.c0332ade.chunk.css",
+    "main.js": "/task1_react/static/js/main.65f3da2d.chunk.js",
+    "main.js.map": "/task1_react/static/js/main.65f3da2d.chunk.js.map",
+    "runtime-main.js": "/task1_react/static/js/runtime-main.bae150c8.js",
+    "runtime-main.js.map": "/task1_react/static/js/runtime-main.bae150c8.js.map",
+    "static/css/2.f26e749f.chunk.css": "/task1_react/static/css/2.f26e749f.chunk.css",
+    "static/js/2.62218dd4.chunk.js": "/task1_react/static/js/2.62218dd4.chunk.js",
+    "static/js/2.62218dd4.chunk.js.map": "/task1_react/static/js/2.62218dd4.chunk.js.map",
+    "index.html": "/task1_react/index.html",
+    "static/css/2.f26e749f.chunk.css.map": "/task1_react/static/css/2.f26e749f.chunk.css.map",
+    "static/css/main.c0332ade.chunk.css.map": "/task1_react/static/css/main.c0332ade.chunk.css.map",
+    "static/js/2.62218dd4.chunk.js.LICENSE.txt": "/task1_react/static/js/2.62218dd4.chunk.js.LICENSE.txt",
+    "static/media/Rectangle3.d85eb51e.png": "/task1_react/static/media/Rectangle3.d85eb51e.png",
+    "static/media/Rectangle4.68da7a10.png": "/task1_react/static/media/Rectangle4.68da7a10.png",
+    "static/media/Rectangle5.542fae90.png": "/task1_react/static/media/Rectangle5.542fae90.png",
+    "static/media/Rectangle_2.8f785c9d.png": "/task1_react/static/media/Rectangle_2.8f785c9d.png",
+    "static/media/abstract.78d9fa04.png": "/task1_react/static/media/abstract.78d9fa04.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bae150c8.js",
+    "static/css/2.f26e749f.chunk.css",
+    "static/js/2.62218dd4.chunk.js",
+    "static/css/main.c0332ade.chunk.css",
+    "static/js/main.65f3da2d.chunk.js"
+  ]
+}
